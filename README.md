@@ -1,4 +1,4 @@
-(https://asanov55.github.io/react-sneakers/#/)
+(https://asanov55.github.io/react-sneakers/#/).
 
 # Getting Started with Create React App
 
